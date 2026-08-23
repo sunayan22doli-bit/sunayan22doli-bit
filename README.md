@@ -23,9 +23,11 @@
 I'm building software at the intersection of AI and network infrastructure — control planes, automation tooling, and the interfaces that let operations teams work with complex fabrics more easily.
 
 - Prototyping an AI-assisted control plane for network operations teams (EVPN/VXLAN fabrics)
+- Working with RDMA, RoCE, and ECMP for low-latency AI-fabric performance
+- Building and automating BGP and EVPN/VXLAN fabrics across data center and WAN environments
+- Automating infrastructure with Kubernetes, Ansible, and Terraform
+- Digging into deployment failures and AI-fabric performance problems
 - Learning and experimenting with the Model Context Protocol (MCP)
-- Building out full-stack and single-page applications
-- Interested in automation, observability, and making infrastructure easier to operate
 
 ---
 
@@ -34,7 +36,10 @@ I'm building software at the intersection of AI and network infrastructure — c
 | Area | What I Care About |
 | --- | --- |
 | AI Control Planes | Tooling that helps operators manage and reason about network fabrics |
-| Network Fabric | EVPN, VXLAN, and the automation layer around them |
+| High-Speed Fabrics | RDMA, RoCE, ECMP, and AI-fabric performance problems |
+| Routing & Fabric | BGP, EVPN/VXLAN, and WAN connectivity |
+| Automation & IaC | Kubernetes, Ansible, and Terraform |
+| Reliability | Diagnosing deployment failures and keeping fabrics performant |
 | AI Integrations | MCP and other protocols connecting AI tools to real systems |
 | Full-Stack Development | Clean, functional web applications end to end |
 
@@ -48,9 +53,19 @@ I'm building software at the intersection of AI and network infrastructure — c
 ![Automation](https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logoColor=white)
 
 ### Networking
+![RDMA](https://img.shields.io/badge/RDMA-0B1220?style=for-the-badge&logoColor=white)
+![RoCE](https://img.shields.io/badge/RoCE-1F2937?style=for-the-badge&logoColor=white)
+![ECMP](https://img.shields.io/badge/ECMP-374151?style=for-the-badge&logoColor=white)
+![BGP](https://img.shields.io/badge/BGP-0B1220?style=for-the-badge&logo=ethernet&logoColor=white)
 ![EVPN](https://img.shields.io/badge/EVPN-1F2937?style=for-the-badge&logo=ethernet&logoColor=white)
 ![VXLAN](https://img.shields.io/badge/VXLAN-374151?style=for-the-badge&logo=ethernet&logoColor=white)
+![WAN](https://img.shields.io/badge/WAN-0B1220?style=for-the-badge&logoColor=white)
 ![Network Fabric](https://img.shields.io/badge/Network_Fabric-0B1220?style=for-the-badge&logoColor=white)
+
+### Automation & Infra
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Web & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
