@@ -20,11 +20,11 @@
 
 ## About Me
 
-I'm focused on building software at the intersection of AI and network infrastructure — control planes, automation tooling, and the interfaces that let operations teams work with complex fabrics more easily.
+I'm building software at the intersection of AI and network infrastructure — control planes, automation tooling, and the interfaces that let operations teams work with complex fabrics more easily.
 
-- Building AI-assisted control plane tooling for network operations teams (EVPN/VXLAN fabrics)
-- Exploring the Model Context Protocol (MCP) and AI tool integrations
-- Building full-stack and single-page applications
+- Prototyping an AI-assisted control plane for network operations teams (EVPN/VXLAN fabrics)
+- Learning and experimenting with the Model Context Protocol (MCP)
+- Building out full-stack and single-page applications
 - Interested in automation, observability, and making infrastructure easier to operate
 
 ---
@@ -54,9 +54,9 @@ I'm focused on building software at the intersection of AI and network infrastru
 
 ### Web & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -88,11 +88,11 @@ I'm focused on building software at the intersection of AI and network infrastru
 
 ## Featured Projects
 
-| Project | Description |
-| --- | --- |
-| [loom-ai-control-plane](https://github.com/sunayan22doli-bit/loom-ai-control-plane) | AI control plane concept for network operations teams (EVPN/VXLAN fabric) |
-| [SinglePageApp](https://github.com/sunayan22doli-bit/SinglePageApp) | AI-focused single-page application |
-| [MCP](https://github.com/sunayan22doli-bit/MCP) | Model Context Protocol experiments and tooling |
+| Project | Description | Status |
+| --- | --- | --- |
+| [loom-ai-control-plane](https://github.com/sunayan22doli-bit/loom-ai-control-plane) | AI control plane concept for network operations teams (EVPN/VXLAN fabric) | In progress |
+| [SinglePageApp](https://github.com/sunayan22doli-bit/SinglePageApp) | AI-focused single-page application | Early stage |
+| [MCP](https://github.com/sunayan22doli-bit/MCP) | Model Context Protocol experiments and tooling | Just started |
 
 ---
 
