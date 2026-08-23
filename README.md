@@ -8,3 +8,11 @@ Building and operating infrastructure for AI/ML and high-performance compute env
 Working across GPU compute, RDMA/RoCEv2/InfiniBand fabrics, Kubernetes, and distributed storage
 Interested in performance bottlenecks, capacity planning, automation, observability, and reliability
 Sharing practical notes from the backend layers people rarely see but always depend on
+
+
+Core Focus
+Area	What I Care About
+AI Infrastructure	Keeping GPU platforms reliable, observable, and ready for real workloads
+Storage Performance	Throughput, metadata behavior, hot paths, caching, and distributed file systems
+High-Speed Networking	RDMA, RoCEv2, InfiniBand, latency, congestion, and fabric health
+Kubernetes and SRE	Automation, incident response, scaling, monitoring, and operational clarity
