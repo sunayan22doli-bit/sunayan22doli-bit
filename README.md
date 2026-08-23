@@ -41,7 +41,6 @@ I'm building software at the intersection of AI and network infrastructure — c
 | Automation & IaC | Kubernetes, Ansible, and Terraform |
 | Reliability | Diagnosing deployment failures and keeping fabrics performant |
 | AI Integrations | MCP and other protocols connecting AI tools to real systems |
-| Full-Stack Development | Clean, functional web applications end to end |
 
 ---
 
