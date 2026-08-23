@@ -1,4 +1,4 @@
-# Hi there, I'm Sunayan-Doli.
+                                                                       Hi there, I'm Sunayan-Doli.
 About Me
 I'm an AI infrastructure and site reliability engineer focused on the systems that make modern AI workloads actually run: GPU compute, high-speed networking, distributed storage, Kubernetes, Linux, and observability.
 
@@ -13,6 +13,6 @@ Sharing practical notes from the backend layers people rarely see but always dep
 Core Focus
 Area	What I Care About
 AI Infrastructure	Keeping GPU platforms reliable, observable, and ready for real workloads
-Storage Performance	Throughput, metadata behavior, hot paths, caching, and distributed file systems
+Network Engineer	Throughput, metadata behavior, hot paths, caching, and distributed file systems
 High-Speed Networking	RDMA, RoCEv2, InfiniBand, latency, congestion, and fabric health
 Kubernetes and SRE	Automation, incident response, scaling, monitoring, and operational clarity
