@@ -63,12 +63,6 @@ I'm building software at the intersection of AI and network infrastructure — c
 ![WAN](https://img.shields.io/badge/WAN-0B1220?style=for-the-badge&logoColor=white)
 ![Linux Networking](https://img.shields.io/badge/Linux_Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Storage and Platforms
-![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
-![Lustre](https://img.shields.io/badge/Lustre-2563EB?style=for-the-badge&logoColor=white)
-![VAST](https://img.shields.io/badge/VAST_Data-111827?style=for-the-badge&logoColor=white)
-![Distributed File Systems](https://img.shields.io/badge/Distributed_File_Systems-0F766E?style=for-the-badge&logoColor=white)
-
 ### Cloud Native and Operations
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
