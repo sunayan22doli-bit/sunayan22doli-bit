@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/sunayan22doli-bit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Infrastructure+%26+Network+Automation;EVPN+%2F+VXLAN+Fabric+%7C+Control+Planes+%7C+AI+Tooling;Building+control-plane+software+for+network+operations;MCP+%7C+AI+Integrations+%7C+Full-Stack+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Infrastructure+%26+Network+Automation;EVPN+%2F+VXLAN+Fabric+%7C+Control+Planes+%7C+AI+Tooling;Building+control-plane+software+for+network+operations;MCP+%7C+AI+Integrations" alt="Typing SVG" />
   </a>
 </p>
 
