@@ -46,31 +46,43 @@ I'm building software at the intersection of AI and network infrastructure — c
 
 ## Tech Stack
 
-### AI & Automation
-![AI Tooling](https://img.shields.io/badge/AI_Tooling-111827?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-374151?style=for-the-badge&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logoColor=white)
+### AI, GPU, and HPC
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU Compute](https://img.shields.io/badge/GPU_Compute-111827?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![CUDA](https://img.shields.io/badge/CUDA-111827?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![NVLink](https://img.shields.io/badge/NVLink-0F172A?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Networking
 ![RDMA](https://img.shields.io/badge/RDMA-0B1220?style=for-the-badge&logoColor=white)
-![RoCE](https://img.shields.io/badge/RoCE-1F2937?style=for-the-badge&logoColor=white)
+![RoCEv2](https://img.shields.io/badge/RoCEv2-1F2937?style=for-the-badge&logoColor=white)
+![InfiniBand](https://img.shields.io/badge/InfiniBand-374151?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ECMP](https://img.shields.io/badge/ECMP-374151?style=for-the-badge&logoColor=white)
 ![BGP](https://img.shields.io/badge/BGP-0B1220?style=for-the-badge&logo=ethernet&logoColor=white)
 ![EVPN](https://img.shields.io/badge/EVPN-1F2937?style=for-the-badge&logo=ethernet&logoColor=white)
 ![VXLAN](https://img.shields.io/badge/VXLAN-374151?style=for-the-badge&logo=ethernet&logoColor=white)
 ![WAN](https://img.shields.io/badge/WAN-0B1220?style=for-the-badge&logoColor=white)
-![Network Fabric](https://img.shields.io/badge/Network_Fabric-0B1220?style=for-the-badge&logoColor=white)
+![Linux Networking](https://img.shields.io/badge/Linux_Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Automation & Infra
+### Storage and Platforms
+![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
+![Lustre](https://img.shields.io/badge/Lustre-2563EB?style=for-the-badge&logoColor=white)
+![VAST](https://img.shields.io/badge/VAST_Data-111827?style=for-the-badge&logoColor=white)
+![Distributed File Systems](https://img.shields.io/badge/Distributed_File_Systems-0F766E?style=for-the-badge&logoColor=white)
+
+### Cloud Native and Operations
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Web & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ---
 
